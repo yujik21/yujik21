@@ -1,11 +1,11 @@
 ### Hi there 👋
 Education:
 
-University of California, Los Angeles
+University of California, Los Angeles.
 B.S. in Data Theory
 Expected Graduation 2024
 
-De Anza Community College, CA
+De Anza Community College, CA.
 A.S. in Computer Science for Transfer Degree
 GPA: 3.85
 

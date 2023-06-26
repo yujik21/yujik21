@@ -7,7 +7,7 @@ Expected Graduation 2024
 
 De Anza Community College, CA.
 A.S. in Computer Science for Transfer Degree
-GPA: 3.85
+GPA: 3.9
 
 CSE Coursework:         
 
